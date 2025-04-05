@@ -15,7 +15,7 @@ I'm always open to collaborations and opportunities where I can contribute, lear
 
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/dima-balashov-b1b291249/)
-- [Email](13579d2005@gmail.com)
+- [Email](mailto:13579d2005@gmail.com)
 <!-- You can add GitHub stats or pinned projects below if you like -->
 
 <!--
